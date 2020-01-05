@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>About Karen Eadie</title>
+</head>
+
+<body bgcolor=222831 text=eeeeee >
+  <table cellspacing="20">
+    <tr>
+      <td><img CLASS="profilepic" src="Karen.jpg" alt="Karen profile picture" size="40x40"></td>
+      <td>
+        <h1> <font color="00adb5">About Karen Eadie </font></h1>
+        <p><em>Experienced office administrator. Looking to learn about the world of <strong>Web Development</strong>.</em></p>
+        <p> I have worked in office administration for 10+ years.I have now begun training in Web Development.</p>
+      </td>
+    </tr>
+  </table>
+  <hr />
+  <h3><font color="00adb5"> Courses I Am Currently Working Through </font></h3>
+  <ul>
+    <li> The Complete 2019 Web Development Bootcamp - Online @<strong><a href="https://www.udemy.com">Udemy</a></strong></li>
+    <li> React - The Complete Guide (incl Hooks, react Router, Redux) - Online @<strong><a href="https://www.udemy.com">Udemy</a></strong></li>
+    <li>iOS 12 & Swift - The Complete iOS App Development Bootcamp - Online @<strong><a href="https://www.udemy.com">Udemy</a></strong>
+    </li>
+    <li>Web Application Development PDA Software Development (SCQF Level 7) - @<strong><a href="https://www.itpt.co.uk/">ITPT Glasgow</a></strong>
+    </li>
+  </ul>
+  <hr>
+  <h3><font color="00adb5">Some of My Favourite Movies</font></h3>
+  <ol>
+    <li>We Were Soldiers <a href="https://www.imdb.com/title/tt0277434/">(IMDB)</a> </li>
+    <li>The Nightmare Before Christmas <a href="https://www.imdb.com/title/tt0107688/?ref_=fn_al_tt_1">(IMDB)</a></li>
+    <li>Forrest Gump <a href="https://www.imdb.com/title/tt0109830/?ref_=fn_al_tt_1">(IMDB)</a></li>
+    </ol>
+
+<hr>
+<h3><font color="00adb5">Some of My Favourite Songs</font></h3>
+<ol>
+  <li>Everlong - <a href="https://youtu.be/eBG7P-K-r1Y">Foo Fighters</a></li>
+  <li>Iris - <a href="https://youtu.be/NdYWuo9OFAw">Goo Goo Dolls</a></li>
+  <li>River -  <a href="https://youtu.be/0Hegd4xNfRo"> Leon Bridges</a></li>
+  <li>More Than Words - <a href="https://youtu.be/UrIiLvg58SY">Extreme</a></li>
+  <li>Angel - <a href="https://youtu.be/i1GmxMTwUgs">Sarah McLachlan</a></li>
+  <li>Bubbles - <a href="https://youtu.be/UxUb9Yzr1sE">Biffy Clyro</a></li>
+</ol>
+<hr>
+
+
+  <br>
+  <a href="mailto:kareneadie@gmail.com">email me</a>
+</body>
+
+</html>
